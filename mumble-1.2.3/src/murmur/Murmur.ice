@@ -6,6 +6,8 @@
  *
  **/
 
+// this is a comment
+
 #include <Ice/SliceChecksumDict.ice>
 
 module Murmur
